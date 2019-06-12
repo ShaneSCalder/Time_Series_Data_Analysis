@@ -2,9 +2,9 @@
 # created for file path in git
 
 # Date_Time_Index.py
-# NumPy Datetime Arrays
-# NumPy Date Ranges
-# Pandas Datetime Index
-# Pandas Datetime Analysis
+  # NumPy Datetime Arrays
+  # NumPy Date Ranges
+  # Pandas Datetime Index
+  # Pandas Datetime Analysis
 
 
